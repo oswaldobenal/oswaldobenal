@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me :
 
 - 🔭 I’m currently working on Adóptame App.
-- 💬 Ask me about **React, Node, SQL, Javascript**
-- 🌱 I’m currently learning **TypeScrypt and NextJs**
+- 💬 Ask me about **React, NodeJs, Express, SQL, Javascript.**
+- 🌱 I’m currently learning **TypeScrypt and NextJs.**
 - 🤔 I’m looking a job where i can apply my skills.
 - ⚡ Fun fact: I love the videogames, soccer and the nature.
 - 📫 How to reach me **oswaldobenal12@gmail.com**

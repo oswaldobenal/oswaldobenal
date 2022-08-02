@@ -5,7 +5,7 @@
     </h3>
 </div>
 
-...
+---
 
 ### 👨‍💻 About Me :
 
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I love the videogames, soccer and the nature.
 - 📫 How to reach me **oswaldobenal12@gmail.com**
 
-...
+---
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
@@ -32,3 +32,5 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
+
+---

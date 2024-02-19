@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me :
 
-- 🔭 I’m currently working on Adóptame App.
+- 🔭 I’m currently working on Kruger Corporation.
 - 💬 Ask me about **React, NodeJs, Express, SQL, Javascript.**
 - 🌱 I’m currently learning **TypeScrypt and NextJs.**
 - 🤔 I’m looking a job where i can apply my skills.
